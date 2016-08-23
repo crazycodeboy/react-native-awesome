@@ -17,15 +17,15 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 	* [ES6&ES7](#es6es7)
 	* [项目实践&教程](#项目实践教程) 	
 	* [系列教程](#系列教程)
-* [开源APP](#开源APP)
+* [开源APP](#开源app)
 * [组件](#组件)
-	* [Navigation](#Navigation) 
-	* [ViewPager](#ViewPager)	
-	* [ListView&ScrollView](#ListViewScrollView)
-	* [Text](#Text)	
+	* [Navigation](#navigation) 
+	* [ViewPager](#viewpager)	
+	* [ListView&ScrollView](#listviewscrollview)
+	* [Text&Rich Content](#text-rich-content)
 	* [弹框](#弹框)	
 	* [Material Design](#material-design)
-	* [TabLayout](#TabLayout)	
+	* [TabLayout](#tablayout)	
 * [框架&库](#框架库)
 * [工具](#工具)
 * [视频](#视频)
@@ -154,7 +154,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [react-native-SortableList](https://github.com/hayeah/react-native-SortableList)：拖拽排序组件。
 
 
-### Text & Rich Content  
+### Text&Rich Content  
 
 * [react-native-htmlview](https://github.com/jsdf/react-native-htmlview)：HTML显示组件，渲染HTML text 。
 
