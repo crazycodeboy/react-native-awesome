@@ -44,7 +44,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [React中文网](http://reactjs.cn/)
 * [React入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
 
----------
+
 
 ### React Native
 
@@ -73,9 +73,6 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 
 
-
----------
-
 ### ES6/ES7
 
 * [ES6的新特性，以及ES6与ES5的区别](http://blog.csdn.net/fengyuzhengfan/article/details/52233582)
@@ -87,7 +84,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [React/React Native 的ES5 ES6写法对照表](http://bbs.reactnative.cn/topic/15/react-react-native-%E7%9A%84es5-es6%E5%86%99%E6%B3%95%E5%AF%B9%E7%85%A7%E8%A1%A8)
 * [深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
 
----------
+
 
 ### 系列教程 
 
@@ -96,7 +93,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [React Native高手进阶-专题](http://www.jianshu.com/collection/b6da4107b30d)
 * [React Native 每日一学(Learn a little every day)](https://github.com/crazycodeboy/RNStudyNotes/tree/master/React%20Native%20%E6%AF%8F%E6%97%A5%E4%B8%80%E5%AD%A6)
 
----------
+
 
 ### 项目实践/教程   
 
@@ -218,8 +215,8 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ## 资源下载
 
-* [(深入浅出ES6)ES6-in-depth]()
-* [JavaScript Promise迷你书(中文版)]()
+* [(深入浅出ES6)ES6-in-depth](https://raw.githubusercontent.com/crazycodeboy/react-native-awesome/master/resource/download/(%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAES6)ES6-in-depth.pdf)
+* [JavaScript Promise迷你书(中文版)](https://raw.githubusercontent.com/crazycodeboy/react-native-awesome/master/resource/download/(JavaScript%20Promise%E8%BF%B7%E4%BD%A0%E4%B9%A6(%E4%B8%AD%E6%96%87%E7%89%88))javascript-promise-book.pdf)
 
 
 	
