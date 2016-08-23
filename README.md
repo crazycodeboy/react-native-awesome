@@ -179,6 +179,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 * [NativeBase](https://github.com/GeekyAnts/NativeBase)：一款融合了ES6用于在React Native上创建创建高质量的Android&iOS APP的框架。
 * [tcomb-form-native](https://github.com/gcanti/tcomb-form-native)：强大的表单处理控件，支持 JSON 模式，可插拔的外观和感觉。
+* [RNShareSDK](hhttps://github.com/kengsir/RNShareSDK)：一款基于原生平台ShareSDK的ReactNative插件,方便RN开发者集成各大社交平台的分享和授权功能。
 
 
 ## 工具
