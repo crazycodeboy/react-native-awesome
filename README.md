@@ -119,7 +119,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)：Finance - 股票报价app。
 * [React-Native-Gank](https://github.com/Bob1993/React-Native-Gank)：Gank.io客户端。
 * [leanote-ios-rnLeanote](https://github.com/leanote/leanote-ios-rn)：Leanote for iOS(云笔记)。
-* [shopping-react-native](https://github.com/bigsui/shopping-react-native：shopping) ：购物app-界面。
+* [shopping-react-native](https://github.com/bigsui/shopping-react-native) ：购物app-界面。
 * [react-native-nba-app](https://github.com/wwayne/react-native-nba-app)：This is why we play。
 * [react-native-gitosc](http://git.oschina.net/rplees/react-native-gitosc)：使用React Native重写的OSChina的Git@OSC客户端。
 * [reading](https://github.com/attentiveness/reading)：iReading App。
@@ -179,7 +179,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 * [NativeBase](https://github.com/GeekyAnts/NativeBase)：一款融合了ES6用于在React Native上创建创建高质量的Android&iOS APP的框架。
 * [tcomb-form-native](https://github.com/gcanti/tcomb-form-native)：强大的表单处理控件，支持 JSON 模式，可插拔的外观和感觉。
-* [RNShareSDK](hhttps://github.com/kengsir/RNShareSDK)：一款基于原生平台ShareSDK的ReactNative插件,方便RN开发者集成各大社交平台的分享和授权功能。
+* [RNShareSDK](https://github.com/kengsir/RNShareSDK)：一款基于原生平台ShareSDK的ReactNative插件,方便RN开发者集成各大社交平台的分享和授权功能。
 
 
 ## 工具
