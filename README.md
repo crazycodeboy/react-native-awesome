@@ -207,7 +207,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [React 官网](https://facebook.github.io/react/)
 * [React-China社区](http://react-china.org/)
 * [React Native中文社区](http://bbs.react-native.cn/)
-* [React Native组件库网站](http://react.parts/)
+* [React Native组件库网站](https://js.coach/react-native)
 * [Use React Native 资讯站](http://www.reactnative.com/)
 
 
