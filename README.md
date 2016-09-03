@@ -161,6 +161,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### 弹框  
 
+* [react-native-easy-toast](https://github.com/crazycodeboy/react-native-easy-toast)：一款用于React Native上消息提示弹框组件，使用方便，支持定义Toast，支持iOS,Android。
 * [react-native-modal](https://github.com/brentvatne/react-native-modal)：模态框，作者已经将该组件添加到React Native，所以开发者可以直接使用[Modal](https://facebook.github.io/react-native/releases/0.31/docs/modal.html);  
 * [react-native-popover](https://github.com/jeanregisser/react-native-popover)：一款类似Android popupwindow的弹出框组件。
 
