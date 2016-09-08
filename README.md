@@ -227,7 +227,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 * [(深入浅出ES6)ES6-in-depth](https://raw.githubusercontent.com/crazycodeboy/react-native-awesome/master/resource/download/(%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAES6)ES6-in-depth.pdf)
 * [JavaScript Promise迷你书(中文版)](https://raw.githubusercontent.com/crazycodeboy/react-native-awesome/master/resource/download/(JavaScript%20Promise%E8%BF%B7%E4%BD%A0%E4%B9%A6(%E4%B8%AD%E6%96%87%E7%89%88))javascript-promise-book.pdf)
-* [React Native API 电子书 for mac@UIExplorer](https://raw.githubusercontent.com/crazycodeboy/react-native-awesome/master/resource/download/uiexplorer.zip)
+* [React Native API 电子书 for mac@UIExplorer](https://raw.githubusercontent.com/crazycodeboy/react-native-awesome/master/resource/download/UIExplorer.zip)
 
 
 	
