@@ -26,7 +26,8 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 	* [弹框](#弹框)	
 	* [Material Design](#material-design)
 	* [TabLayout](#tablayout)	
-* [框架&库](#框架库)
+* [框架](#框架)
+* [库](#库)
 * [工具](#工具)
 * [视频](#视频)
 * [资源网站](#资源网站)
@@ -179,10 +180,14 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view)：一款用于React Native上TabLayout组件。
 
 
-## 框架&库
+## 框架
 
 * [NativeBase](https://github.com/GeekyAnts/NativeBase)：一款融合了ES6用于在React Native上创建创建高质量的Android&iOS APP的框架。
 * [tcomb-form-native](https://github.com/gcanti/tcomb-form-native)：强大的表单处理控件，支持 JSON 模式，可插拔的外观和感觉。
+
+## 库
+
+* [react-native-launch-image](https://github.com/reactnativecn/react-native-launch-image)：用在React Native上手动关闭iOS启动界面（Launch Screen）的工具。[详细说明](http://reactnative.cn/post/2199)  
 * [RNShareSDK](https://github.com/kengsir/RNShareSDK)：一款基于原生平台ShareSDK的ReactNative插件,方便RN开发者集成各大社交平台的分享和授权功能。
 
 
