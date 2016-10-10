@@ -224,8 +224,8 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 
 ## 一次学习，随处可写  
-* [react-native-macos](https://github.com/ptmt/react-native-macos)：使用React Native组建Web应用。
-* [react-native-web](https://github.com/necolas/react-native-web)：使用React Native和Cocoa组建macOS桌面应用。
+* [react-native-macos](https://github.com/ptmt/react-native-macos)：使用React Native和Cocoa组建macOS桌面应用。
+* [react-native-web](https://github.com/necolas/react-native-web)：使用React Native组建Web应用。
 
 
 ## 资源下载
