@@ -54,6 +54,9 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### React Native
 
+* [React Native 官方文档](https://facebook.github.io/react-native/)
+* [React Native 中文版 - 极客学院](http://wiki.jikexueyuan.com/project/react-native/)
+* [React Native 中文版 - reactnative.cn](http://reactnative.cn/)
 
 #### 布局相关  
 
