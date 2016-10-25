@@ -13,6 +13,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [教程](#教程)
 	* [React.js](#reactjs)
 	* [React Native](#react-native)	
+		* [文档手册](#文档手册)	
 		* [布局相关](#布局相关)	
 		* [开发调试](#开发调试)	
 		* [发布部署](#发布部署)
@@ -53,6 +54,8 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 
 ### React Native
+
+#### 文档手册
 
 * [React Native 官方文档](https://facebook.github.io/react-native/)
 * [React Native 中文版 - 极客学院](http://wiki.jikexueyuan.com/project/react-native/)
