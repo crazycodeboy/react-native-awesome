@@ -14,8 +14,8 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 	* [React.js](#reactjs)
 	* [React Native](#react-native)
 * [教程](#教程)
-	* [React.js](#reactjs)
-	* [React Native](#react-native)	
+	* [React.js](#reactjs-1)
+	* [React Native](#react-native-1)	
 		* [文档手册](#文档手册)	
 		* [布局相关](#布局相关)	
 		* [开发调试](#开发调试)	
@@ -61,7 +61,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ## 教程
 
-### React
+### React.js
 
 * [React速学教程(上)](http://blog.csdn.net/fengyuzhengfan/article/details/52185921)
 * [React速学教程(中)](http://blog.csdn.net/fengyuzhengfan/article/details/52201554)
