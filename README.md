@@ -10,6 +10,9 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ## 目录
 
+* [资源网站](#资源网站)
+	* [React.js](#reactjs)
+	* [React Native](#react-native)
 * [教程](#教程)
 	* [React.js](#reactjs)
 	* [React Native](#react-native)	
@@ -34,32 +37,38 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [库](#库)
 * [工具](#工具)
 * [视频](#视频)
-* [资源网站](#资源网站)
 * [新闻&讨论](#新闻讨论)
 * [一次学习，随处可写](#一次学习随处可写)
 * [资源下载](#资源下载)
 
 
-## 教程
+## 资源网站
 
 ### React.js
 
-* [React速学教程(上)](http://blog.csdn.net/fengyuzhengfan/article/details/52185921)
-* [React速学教程(中)](http://blog.csdn.net/fengyuzhengfan/article/details/52201554)
-* [React速学教程(下)](http://blog.csdn.net/fengyuzhengfan/article/details/52233582)
 * [React官网](https://facebook.github.io/react/)
 * [React中文网](http://reactjs.cn/)
-* [React入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
-
-
+* [React-China社区](http://react-china.org/)
 
 ### React Native
-
-#### 文档手册
 
 * [React Native 官方文档](https://facebook.github.io/react-native/)
 * [React Native 中文版 - 极客学院](http://wiki.jikexueyuan.com/project/react-native/)
 * [React Native 中文版 - reactnative.cn](http://reactnative.cn/)
+* [React Native中文社区](http://bbs.react-native.cn/)
+* [React Native组件库网站](https://js.coach/react-native)
+* [Use React Native 资讯站](http://www.reactnative.com/)
+
+## 教程
+
+### React
+
+* [React速学教程(上)](http://blog.csdn.net/fengyuzhengfan/article/details/52185921)
+* [React速学教程(中)](http://blog.csdn.net/fengyuzhengfan/article/details/52201554)
+* [React速学教程(下)](http://blog.csdn.net/fengyuzhengfan/article/details/52233582)
+* [React入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
+
+### React Native
 
 #### 布局相关  
 
@@ -218,17 +227,6 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 ## 视频   
 
 * [React.js Conf 2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
-
-
-## 资源网站
-
-* [React Native官网](http://facebook.github.io/react-native/)
-* [React 官网](https://facebook.github.io/react/)
-* [React-China社区](http://react-china.org/)
-* [React Native中文社区](http://bbs.react-native.cn/)
-* [React Native组件库网站](https://js.coach/react-native)
-* [Use React Native 资讯站](http://www.reactnative.com/)
-
 
 ## 新闻&讨论
 
