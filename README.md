@@ -1,5 +1,7 @@
 # React Native 学习资源精选仓库(汇聚知识，分享精华)
 
+[![](https://jaywcjlove.github.io/sb/ico/awesome.svg)](#目录) [![](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/crazycodeboy/react-native-awesome) [![](https://jaywcjlove.github.io/sb/lang/english.svg)](https://github.com/jondot/awesome-react-native) 
+
 React Native Awesome 汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。
 
 >如果你是一名React Native爱好者，或者有一颗热爱钻研新技术的心，喜欢分享技术干货、项目经验、以及你在React Naive学习研究或实践中的一些经验心得等等，欢迎投稿[《React Native Awesome》](https://github.com/crazycodeboy/react-native-awesome)。
@@ -11,6 +13,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [教程](#教程)
 	* [React.js](#reactjs)
 	* [React Native](#react-native)	
+		* [文档手册](#文档手册)	
 		* [布局相关](#布局相关)	
 		* [开发调试](#开发调试)	
 		* [发布部署](#发布部署)
@@ -52,6 +55,11 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### React Native
 
+#### 文档手册
+
+* [React Native 官方文档](https://facebook.github.io/react-native/)
+* [React Native 中文版 - 极客学院](http://wiki.jikexueyuan.com/project/react-native/)
+* [React Native 中文版 - reactnative.cn](http://reactnative.cn/)
 
 #### 布局相关  
 
