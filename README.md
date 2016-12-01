@@ -222,6 +222,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 ### 其他  
 * [CodePush](https://microsoft.github.io/code-push/)：CodePush 是微软提供的一套用于热更新 React Native 和 Cordova 应用的服务。
 * [Redux](https://github.com/reactjs/redux/)：用于JavaScript apps上的一款可预见的状态管理框架。
+* [redux-react-native-i18n](https://github.com/derzunov/redux-react-native-i18n) An i18n solution with plural forms support for React Native apps on Redux
 
 
 ## 视频   
