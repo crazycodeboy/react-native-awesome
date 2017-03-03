@@ -227,6 +227,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ## 视频   
 
+* [React Native免费自学视频](http://www.imooc.com/note/808?sort=last&page=1)
 * [React.js Conf 2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
 
 ## 新闻&讨论
