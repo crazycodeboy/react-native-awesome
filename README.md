@@ -122,7 +122,8 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [Moles：携程基于React Native的跨平台开发框架](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112408&idx=1&sn=32c2636a2653fe9391b44de514261cbf&scene=0&key=77421cf58af4a653dcba21da5c024ac89779f9441ef063c83a81320190267d73448404f84638ac9741a1c60d023e7e88&ascene=0&uin=Mjc3OTU3Nzk1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build%2814F1808%29&version=11020201&pass_ticket=x3C%2Bf%2BjqNCVt%2FGoLAeJ5hccBYdZiUgf8Rr%2FLW%2Bpr4auXqEdjgM%2Fbrnmu6Qu%2B3N7N)
 * [构建 Facebook F8 2016 App / React Native 开发指南](http://f8-app.liaohuqiu.net/)
 * [React Native 从入门到原理](http://www.jianshu.com/p/978c4bd3a759#)
-
+* [Mac(OSX)平台搭建React Native开发环境](http://www.devio.org/2016/05/20/React-Native-development-environment-build-mac-platform/)
+* [Windows平台搭建React Native开发环境](http://www.devio.org/2016/05/20/React-Native-development-environment-build-Windows-platform/)
 
 ## 开源APP  
 
