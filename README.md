@@ -120,6 +120,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 ### 项目实践&教程   
 
 * [React Native项目实战视频教程](http://coding.imooc.com/class/89.html)![ hot](http://www.devio.org/img/ico/ico_hot.gif)
+* [React Native 开发适配心得](http://www.devio.org/2017/10/06/How-to-develop-a-React-Native-application-for-Android-and-iOS-dual-platforms/)![ new](http://www.devio.org/img/ico/ico_new.gif)
 * [React Native 集成分享第三方登录功能分享第三方登录模块开发(iOS)](http://www.devio.org/2017/09/30/React-Native-integration-share-third-party-login-function-ios/)![ new](http://www.devio.org/img/ico/ico_new.gif)
 * [React Native 集成分享第三方登录功能分享第三方登录模块开发(Android)](http://www.devio.org/2017/09/10/React-Native-integration-share-third-party-login-function/)![ new](http://www.devio.org/img/ico/ico_new.gif)
 * [教你轻松在React Native中集成统计的功能)](http://www.devio.org/2017/09/03/React-Native-Integrated-analysis-function/)![ new](http://www.devio.org/img/ico/ico_new.gif)
