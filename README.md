@@ -120,8 +120,10 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 ### 项目实践&教程   
 
 * [React Native技术精讲与高质量上线APP开发](http://coding.imooc.com/class/89.html)![ hot](http://www.devio.org/img/ico/ico_hot.gif)
+* [React Native 混合开发(Android篇)](http://www.devio.org/2018/08/26/React-Native-Hybrid-Android/)![ new](http://www.devio.org/img/ico/ico_new.gif)
+* [React Native 混合开发(iOS篇)](http://www.devio.org/2018/08/26/React-Native-Hybrid-iOS/)![ new](http://www.devio.org/img/ico/ico_new.gif)
 * [从navigator到react-navigation进阶教程](http://www.devio.org/2018/05/15/navigator-to-react-navigation/)![ new](http://www.devio.org/img/ico/ico_new.gif)
-* [React Native年度报告(2017-2018)](http://www.devio.org/2018/02/26/React-Native-Annual-Report-2017-2018/)![ new](http://www.devio.org/img/ico/ico_new.gif)
+* [React Native年度报告(2017-2018)](http://www.devio.org/2018/02/26/React-Native-Annual-Report-2017-2018/)
 * [React Native0.50+开发指导](http://www.devio.org/2017/12/12/React-Native0.50-Development-Guide-Chinese-update-instructions/)
 * [React Native 开发适配心得](http://www.devio.org/2017/10/06/How-to-develop-a-React-Native-application-for-Android-and-iOS-dual-platforms/)
 * [React Native 集成分享第三方登录功能分享第三方登录模块开发(iOS)](http://www.devio.org/2017/09/30/React-Native-integration-share-third-party-login-function-ios/)
