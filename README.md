@@ -108,7 +108,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### 系列教程 
 
-* [React Native项目实战视频教程](http://coding.imooc.com/class/89.html)![ hot](http://www.devio.org/img/ico/ico_hot.gif)
+* [React Native项目实战视频教程](http://coding.imooc.com/class/304.html)![ hot](http://www.devio.org/img/ico/ico_hot.gif)
 * [React Native免费自学视频](http://www.imooc.com/learn/808)
 * [React Native 学习笔记](https://github.com/crazycodeboy/RNStudyNotes)
 * [React Native高手进阶-专栏](http://blog.csdn.net/column/details/react-native-advance.html)
@@ -119,7 +119,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### 项目实践&教程   
 
-* [React Native技术精讲与高质量上线APP开发](http://coding.imooc.com/class/89.html)![ hot](http://www.devio.org/img/ico/ico_hot.gif)
+* [最新版React Native+Redux打造高质量上线App](http://coding.imooc.com/class/304.html)![ hot](http://www.devio.org/img/ico/ico_hot.gif)
 * [React Native 混合开发(Android篇)](http://www.devio.org/2018/08/26/React-Native-Hybrid-Android/)![ new](http://www.devio.org/img/ico/ico_new.gif)
 * [React Native 混合开发(iOS篇)](http://www.devio.org/2018/08/26/React-Native-Hybrid-iOS/)![ new](http://www.devio.org/img/ico/ico_new.gif)
 * [从navigator到react-navigation进阶教程](http://www.devio.org/2018/05/15/navigator-to-react-navigation/)![ new](http://www.devio.org/img/ico/ico_new.gif)
@@ -242,7 +242,8 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ## 视频   
 
-* [React Native项目实战视频](http://coding.imooc.com/class/89.html)
+* [React Native+Redux实战视频](http://coding.imooc.com/class/304.html)
+* [React Native项目实战视频](http://coding.imooc.com/class/304.html)
 * [React Native免费自学视频](http://www.imooc.com/note/808?sort=last&page=1)
 * [React.js Conf 2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
 
