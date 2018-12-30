@@ -120,6 +120,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 ### 项目实践&教程   
 
 * [最新版React Native+Redux打造高质量上线App](http://coding.imooc.com/class/304.html)![ hot](http://www.devio.org/img/ico/ico_hot.gif)
+* [『React Navigation 3x系列教程』之createBottomTabNavigator开发指南](http://www.devio.org/2018/12/30/createBottomNavigator/)![ new](http://www.devio.org/img/ico/ico_new.gif)
 * [『React Navigation 3x系列教程』之React Navigation 3x开发指南](http://www.devio.org/2018/12/15/react-navigation3x/)![ new](http://www.devio.org/img/ico/ico_new.gif)
 * [『React Navigation 3x系列教程』之createStackNavigator开发指南](http://www.devio.org/2018/12/24/createStackNavigator/)![ new](http://www.devio.org/img/ico/ico_new.gif)
 * [React Native 混合开发(Android篇)](http://www.devio.org/2018/08/26/React-Native-Hybrid-Android/)
