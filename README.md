@@ -226,6 +226,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 * [NativeBase](https://github.com/GeekyAnts/NativeBase)：一款融合了ES6用于在React Native上创建创建高质量的Android&iOS APP的框架。
 * [tcomb-form-native](https://github.com/gcanti/tcomb-form-native)：强大的表单处理控件，支持 JSON 模式，可插拔的外观和感觉。
+* [Teaset](https://github.com/rilyu/teaset)：一款React Native UI框架，提供20+纯JS组件，可与React Native已有组件无缝组合使用，专注于内容展示与操作控制。
 
 ## 库
 
