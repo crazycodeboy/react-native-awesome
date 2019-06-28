@@ -231,6 +231,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 * [react-native-launch-image](https://github.com/reactnativecn/react-native-launch-image)：用在React Native上手动关闭iOS启动界面（Launch Screen）的工具。[详细说明](http://reactnative.cn/post/2199)  
 * [RNShareSDK](https://github.com/kengsir/RNShareSDK)：一款基于原生平台ShareSDK的ReactNative插件,方便RN开发者集成各大社交平台的分享和授权功能。
+* [react-native-agora](https://github.com/syanbo/react-native-agora): 基于声网音视频SDK封装的React Native模块，方便RN开发者可以轻松集成WebRTC功能，实现电话会议，视频会议，直播等功能。
 
 
 ## 工具
