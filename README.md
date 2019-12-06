@@ -173,6 +173,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 ### UI
 
 - [react-native-vector-icons ★2281](https://github.com/oblador/react-native-vector-icons)：用于 React Native的可定制的图标资源库，支持 NavBar/TabBar, image source 以及样式。
+- [authing-rn-sdk](https://github.com/Authing/authing-rn-sdk)：完整的用户认证表单，开发者可以快速接入支付宝、微信等 APP 登录，以及免代码开发支持邮箱密码、用户名密码、手机验证码登录。
 
 ### Navigation  
 
