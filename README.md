@@ -166,6 +166,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [react-native-nba-app](https://github.com/wwayne/react-native-nba-app)：This is why we play。
 * [react-native-gitosc](http://git.oschina.net/rplees/react-native-gitosc)：使用React Native重写的OSChina的Git@OSC客户端。
 * [reading](https://github.com/attentiveness/reading)：iReading App。
+* [Waifu Deck](https://github.com/fancydirty/waifu-deck)：基于 Expo 与 React Native 构建的开源二次元插画滑卡发现与客户端端到端加密多云同步画廊 App。
 
 
 ## 组件  
