@@ -173,6 +173,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 ### UI
 
 - [react-native-vector-icons ★2281](https://github.com/oblador/react-native-vector-icons)：用于 React Native的可定制的图标资源库，支持 NavBar/TabBar, image source 以及样式。
+- [react-native-text-avatar](https://github.com/hicay/react-native-text-avatar)：类似 Gmail 的首字母头像组件，根据姓名生成稳定的颜色，支持多种形状和深色模式，无原生代码，支持 Expo。
 
 ### Navigation  
 
